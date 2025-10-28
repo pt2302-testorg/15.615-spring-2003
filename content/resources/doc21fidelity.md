@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 20: Bankruptcy outline: Fidelity'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/96a5cb719707a084c9bcde16d3302d60_doc21fidelity.pdf
+file_size: 625694
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

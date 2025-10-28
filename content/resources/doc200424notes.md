@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 19: Corporate gov.'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/322671c0a32a37cdca8b36a91f2015b2_doc200424notes.pdf
+file_size: 643219
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

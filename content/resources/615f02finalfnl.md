@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Second takehome exercise: Fall 2002'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/88d7f544cf2d1807307fb4f78066a6aa_615f02finalfnl.pdf
+file_size: 115733
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 10:'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/b644222d310b6cfce6344b3d84bb380a_doc110306notes.pdf
+file_size: 114756
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

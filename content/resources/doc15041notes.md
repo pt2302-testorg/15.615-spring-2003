@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 14: Venture Capital'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/a0ebf8fdbad564e5227107c2a0644124_doc15041notes.pdf
+file_size: 273430
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

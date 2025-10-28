@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Final exercise: Spring 2001'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/085e89cf2a9ab1e40ac90907b57ddd44_2001final.pdf
+file_size: 102703
 file_type: application/pdf
 learning_resource_types:
 - Exams

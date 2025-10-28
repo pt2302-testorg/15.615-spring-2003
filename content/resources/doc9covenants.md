@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 8: Covenants not to compete'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/80754f0d42701b3155f41520bd4501fc_doc9covenants.pdf
+file_size: 86646
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 5: Breach'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/996e9289050f72fe117af19807014d38_doc6extra.pdf
+file_size: 54575
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

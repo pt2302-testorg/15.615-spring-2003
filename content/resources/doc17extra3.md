@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 16: Law'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/c373accb83da87402a1b51d7393faae4_doc17extra3.pdf
+file_size: 121565
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

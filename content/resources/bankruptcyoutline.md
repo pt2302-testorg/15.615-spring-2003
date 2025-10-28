@@ -2,6 +2,7 @@
 content_type: resource
 description: Bankruptcy Outline Fidelity
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/718080ba83b81f90b1e6e5b2c65b567d_bankruptcyoutline.pdf
+file_size: 106507
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
